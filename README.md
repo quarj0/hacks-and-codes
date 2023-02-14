@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/quarjowusu" target="blank"><img src="https://img.shields.io/twitter/follow/quarjowusu?logo=twitter&style=for-the-badge" alt="quarjowusu" /></a> </p>
 
-- 🌱 I’m currently learning **React native, AI and ML with python.**
+- 🌱 I’m currently learning **React, AI and ML with python.**
 
 - 💬 Ask me about **Python and Ethical hacking.**
 
