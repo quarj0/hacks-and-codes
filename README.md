@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/quarjowusu" target="blank"><img src="https://img.shields.io/twitter/follow/quarjowusu?logo=twitter&style=for-the-badge" alt="quarjowusu" /></a> </p>
 
-- 🌱 I’m currently learning **React, AI and ML with python.**
+- 🌱 I’m always learning **React, Django & Hacking.**
 
 - 💬 Ask me about **Python and Ethical hacking.**
 
 - 📫 How to reach me **mygamings1998@gmail.com**
 
-- 📄 Know about my experiences (will be updated soon.)
+- 📄 Know about my experiences (will be updated soon).
 
-- ⚡ Fun fact **I love researching and video games.**
+- ⚡ Fun fact **I love exploring, learning new things and video games.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
