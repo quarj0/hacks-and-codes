@@ -1,4 +1,4 @@
-# Hi there, I'm Young! 👋
+# Hi there, I'm Owusu! 👋
 
 Welcome to my GitHub profile! I'm passionate about cyber secuirty, software development, open source, and continuous learning. Here you'll find a collection of my projects, contributions, and some fun facts about me.
 
